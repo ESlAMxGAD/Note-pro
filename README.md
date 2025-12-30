@@ -79,4 +79,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For support or inquiries, email [a7medhassan](mailto:assanamed@gmail.com).
+For support or inquiries, email [a7medhassan](mailto:eslamsalah2003@gmail.com).
